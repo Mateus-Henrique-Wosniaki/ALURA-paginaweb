@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Matemática',
     'Qual o resultado: √64 ?',
     'O resultado é 8'
 )
